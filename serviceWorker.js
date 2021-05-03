@@ -87,12 +87,12 @@ const assets = [
 	"/img/thumb-rocket.8648044e.png",
 	"/img/trape.ce325df1.svg",
 	"/img/trapehead.f8799840.svg",
-	"/js/app.69e6f6e9.js"
-	"/js/app.69e6f6e9.js.map"
+	"/js/app.1be93654.js"
+	"/js/app.1be93654.js.map"
 	"/js/chunk-2d21a3d2.d328670b.js"
 	"/js/chunk-2d21a3d2.d328670b.js.map"
-	"/js/chunk-vendors.d51ec661.js"
-	"/js/chunk-vendors.d51ec661.js.map"
+	"/js/chunk-vendors.f843f553.js"
+	"/js/chunk-vendors.f843f553.js.map"
 ]
 self.addEventListener("install", installEvent => {
 	installEvent.waitUntil(
