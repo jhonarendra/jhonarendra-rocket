@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1091px" height="664px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1091 664"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:2.36221;stroke-opacity:0.501961}
+    .fil0 {fill:none}
+    .fil2 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2328 0.192825 -0.105714 -0.559276 1121 425)" cx="486.113" cy="332.399" r="253.183" fx="486.113" fy="332.399">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#000280"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10249 0.00536096 0.0453399 0.727159 -70 90)" xlink:href="#id0" cx="531.854" cy="338.643" r="415.55" fx="531.854" fy="338.643">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2069565685728">
+   <g>
+    <line class="fil0 str0" x1="1071" y1="237" x2="1092" y2= "279" />
+    <line class="fil0 str0" x1="1054" y1="224" x2="1090" y2= "298" />
+    <line class="fil0 str0" x1="1040" y1="217" x2="1085" y2= "311" />
+    <line class="fil0 str0" x1="1026" y1="212" x2="1079" y2= "322" />
+    <line class="fil0 str0" x1="1014" y1="209" x2="1072" y2= "329" />
+    <line class="fil0 str0" x1="1001" y1="207" x2="1064" y2= "335" />
+    <line class="fil0 str0" x1="990" y1="206" x2="1055" y2= "340" />
+    <line class="fil0 str0" x1="978" y1="205" x2="1045" y2= "343" />
+    <line class="fil0 str0" x1="967" y1="206" x2="1035" y2= "345" />
+    <line class="fil0 str0" x1="957" y1="207" x2="1024" y2= "346" />
+    <line class="fil0 str0" x1="947" y1="210" x2="1013" y2= "345" />
+    <line class="fil0 str0" x1="938" y1="213" x2="1001" y2= "343" />
+    <line class="fil0 str0" x1="929" y1="217" x2="986" y2= "336" />
+    <line class="fil0 str0" x1="920" y1="222" x2="966" y2= "318" />
+    <line class="fil0 str0" x1="911" y1="227" x2="950" y2= "308" />
+    <line class="fil0 str0" x1="903" y1="233" x2="938" y2= "306" />
+    <line class="fil0 str0" x1="895" y1="239" x2="928" y2= "307" />
+    <line class="fil0 str0" x1="886" y1="244" x2="919" y2= "311" />
+    <line class="fil0 str0" x1="877" y1="248" x2="910" y2= "317" />
+    <line class="fil0 str0" x1="866" y1="250" x2="902" y2= "323" />
+    <line class="fil0 str0" x1="854" y1="246" x2="894" y2= "328" />
+    <line class="fil0 str0" x1="833" y1="226" x2="885" y2= "333" />
+    <line class="fil0 str0" x1="814" y1="210" x2="875" y2= "336" />
+    <line class="fil0 str0" x1="800" y1="204" x2="865" y2= "338" />
+    <line class="fil0 str0" x1="787" y1="200" x2="854" y2= "339" />
+    <line class="fil0 str0" x1="775" y1="198" x2="843" y2= "340" />
+    <line class="fil0 str0" x1="764" y1="198" x2="832" y2= "340" />
+    <line class="fil0 str0" x1="753" y1="199" x2="821" y2= "339" />
+    <line class="fil0 str0" x1="744" y1="202" x2="809" y2= "338" />
+    <line class="fil0 str0" x1="735" y1="207" x2="797" y2= "336" />
+    <line class="fil0 str0" x1="727" y1="214" x2="784" y2= "332" />
+    <line class="fil0 str0" x1="721" y1="224" x2="771" y2= "327" />
+    <line class="fil0 str0" x1="716" y1="238" x2="755" y2= "319" />
+    <line class="fil0 str0" x1="716" y1="260" x2="736" y2= "302" />
+   </g>
+   <path class="fil1" d="M540 130c128,-12 180,-105 227,-55 47,50 -5,92 12,149 17,57 97,14 151,54 53,40 45,97 -2,135 -48,38 -88,-4 -115,33 -27,36 44,94 -4,146 -48,51 -112,8 -138,-11 -111,-79 -186,47 -269,74 -81,27 -161,-7 -148,-75 12,-68 20,-142 -66,-172 -86,-30 -184,-37 -188,-115 -3,-79 110,-68 214,-110 105,-42 14,-149 105,-180 91,-30 78,141 221,127z"/>
+   <path class="fil2" d="M335 247c76,-25 117,63 190,11 74,-52 180,-77 203,-3 24,73 -25,226 -128,178 -103,-48 -156,-45 -242,8 -86,53 -255,-116 -23,-194z"/>
+  </g>
+ </g>
+</svg>

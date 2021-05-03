@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="686px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 686"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.02505 -0.266424 0.254226 -1.29398 533 980)" cx="312.339" cy="390.998" r="267.427" fx="312.339" fy="390.998">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#000280"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.737383 -0.005947 0.0913764 -1.11056 488 832)" xlink:href="#id0" cx="301.684" cy="393.243" r="262.755" fx="301.684" fy="393.243">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2069465163840">
+   <path class="fil0" d="M279 686c-70,-12 -183,-38 -231,-82 -72,-65 -67,-165 42,-261 86,-75 11,-361 189,-342 201,21 53,245 154,334 100,89 101,197 25,270 -77,73 -121,79 -179,81z"/>
+   <path class="fil1" d="M279 608c-30,23 -83,26 -116,-15 -33,-41 -37,-109 23,-180 61,-71 3,-226 39,-269 36,-44 39,-38 54,-45 0,0 91,-19 110,176 20,195 86,149 102,232 15,83 -119,-10 -212,101z"/>
+  </g>
+ </g>
+</svg>

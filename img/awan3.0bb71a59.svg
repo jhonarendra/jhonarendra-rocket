@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="557px" height="788px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 557 788"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:2.36221;stroke-opacity:0.501961}
+    .fil0 {fill:none}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00557 0.00399814 -0.0251773 1.18525 9 -75)" cx="223.275" cy="401.876" r="393.804" fx="223.275" fy="401.876">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#000280"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.841536 0.319298 0.395747 -1.23769 -137 904)" xlink:href="#id0" cx="221" cy="435.611" r="233.689" fx="221" fy="435.611">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2069465182560">
+   <g>
+    <line class="fil0 str0" x1="209" y1="35" x2="274" y2= "98" />
+    <line class="fil0 str0" x1="176" y1="30" x2="279" y2= "132" />
+    <line class="fil0 str0" x1="152" y1="33" x2="276" y2= "156" />
+    <line class="fil0 str0" x1="132" y1="41" x2="269" y2= "176" />
+    <line class="fil0 str0" x1="115" y1="52" x2="258" y2= "193" />
+    <line class="fil0 str0" x1="101" y1="66" x2="244" y2= "208" />
+    <line class="fil0 str0" x1="89" y1="82" x2="228" y2= "219" />
+    <line class="fil0 str0" x1="81" y1="101" x2="209" y2= "228" />
+    <line class="fil0 str0" x1="77" y1="125" x2="185" y2= "232" />
+    <line class="fil0 str0" x1="79" y1="155" x2="155" y2= "230" />
+   </g>
+   <path class="fil1" d="M376 9c99,41 82,135 64,196 -17,61 114,65 118,161 3,95 -60,86 -154,154 -93,68 38,150 5,216 -13,25 -163,111 -189,-16 -12,-62 -98,-76 -131,-74 -34,1 -97,-17 -88,-84 18,-119 345,-212 253,-352 -49,-74 -3,-252 122,-201z"/>
+   <path class="fil2" d="M309 666c56,-25 38,-87 30,-127 -8,-40 54,-43 56,-105 1,-62 -28,-57 -73,-101 -44,-45 18,-98 2,-141 -15,-41 -145,-51 -148,32 -2,67 30,66 30,102 0,36 -30,97 -94,101 -171,8 -109,223 28,165 92,-39 112,99 169,74z"/>
+  </g>
+ </g>
+</svg>
